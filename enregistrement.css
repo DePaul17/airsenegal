@@ -1,0 +1,32 @@
+ *{
+	padding:0;
+	margin:0;
+	text-decoration: none ;
+	font-family: candara ;
+}
+
+.enregistrement{
+	background: url('24.png');
+	height: 660px;
+	background-repeat: no-repeat;
+}
+
+.enregistrement .chant{
+	font size: 40px;
+}
+
+.enregistrement .champs{
+	background-color: red;
+	color: white;
+	font-size: 25px;
+
+}
+
+.enregistrement .retour{
+	font-size: 40px;
+	margin: auto 120px;
+	padding-top: auto;
+	color: white;
+	background-color: red;
+	border-radius: 10px;
+}

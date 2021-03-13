@@ -1,0 +1,80 @@
+*{
+	padding:0;
+	margin:0;
+	text-decoration: none ;
+	font-family: candara ;
+	color: white;
+}
+
+
+.vol h1{
+	background-color: red;
+	font-size: 40px;
+	border: 2px solid black;
+	margin:auto;
+	text-transform: green 2s;
+}
+
+.vol .retour{
+	font-size: 40px;
+	margin: auto 120px;
+	padding-top: auto;
+	color: white;
+	background-color: red;
+	border-radius: 10px;
+}
+
+.vol{
+	background: url('post.png');
+	width: 100%;
+	height: 660px;
+	background-repeat: no-repeat;
+	
+}
+.vol .plane{
+	font-size: 40px;
+	border: 2px solid black;
+    padding: 10px 10px;
+    margin: auto 420px;
+	transition: color 2s;
+}
+ 
+ .vol .plane a{
+ 	color: white;
+ }
+
+ .vol .plane2{
+	font-size: 40px;
+	border: 2px solid black;
+    padding: 10px 10px;
+    margin: auto 420px;
+	transition: color 2s;
+}
+ 
+ .vol .plane2 a{
+ 	color: white;
+ }
+
+ .vol .plane3{
+	font-size: 40px;
+	border: 2px solid black;
+    margin: auto 420px;
+    padding: 10px 10px;
+	transition: color 2s;
+}
+ 
+ .vol .plane3 a{
+ 	color: white;
+ }
+
+.vol .plane :hover{
+	background:green;
+}
+
+.vol .plane2 :hover{
+	background:yellow;
+}
+
+.vol .plane3 :hover{
+	background:red;
+}

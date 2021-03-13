@@ -1,0 +1,29 @@
+*{
+	padding:0;
+	margin:0;
+	text-decoration: none ;
+	font-family: candara ;
+	color: black;
+}
+
+.CDF{background: url('hop.png');
+	height: 700px;
+	text-align: center;
+	padding-top: auto;
+}
+
+.CDF .champs{
+	background-color: red;
+	color: white;
+}
+.CDF .champs {
+	background-color: red;
+
+}
+.CDF prenom {
+	color: red;
+
+}
+.CDF a{
+	border: 2px solid black;
+}

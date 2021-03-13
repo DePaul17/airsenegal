@@ -1,0 +1,37 @@
+*{
+	padding:0;
+	margin:0;
+	text-decoration: none ;
+	font-family: candara ;
+}
+
+.experience{
+	background: url('t2.png');
+	height: 700px;
+	background-repeat: no-repeat;
+}
+.experience a {
+ color:green;
+}
+.experience a1 {
+ color:yellow;
+}
+.experience span {
+ color:red;
+}
+.experience .exp{
+	font-size: 20px;
+	font-weight: bolder;
+	margin: auto 120px;
+	padding-top: auto;
+}
+
+.experience .retour{
+	font-size: 40px;
+	margin: auto 120px;
+	padding-top: auto;
+	color: white;
+	background-color: red;
+	border-radius: 10px;
+}
+

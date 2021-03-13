@@ -1,0 +1,27 @@
+*{
+	padding:0;
+	margin:0;
+	text-decoration: none ;
+	font-family: candara ;
+}
+
+.mission{
+	background: url('air-senegal.png');
+	height: 700px;
+	background-repeat: no-repeat;
+}
+
+.mission .miss{
+	font-size: 20px;
+	font-weight: bolder;
+	margin: auto 120px;
+	padding-top: auto;
+}
+.mission .retour{
+	font-size: 40px;
+	margin: auto 120px;
+	padding-top: auto;
+	color: white;
+	background-color: red;
+	border-radius: 10px;
+}
